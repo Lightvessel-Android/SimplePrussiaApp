@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FirstFancyApp.iml" filepath="$PROJECT_DIR$/FirstFancyApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../prussia/prussia/common/common.iml" filepath="$PROJECT_DIR$/../prussia/prussia/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../prussia/prussia/core/core.iml" filepath="$PROJECT_DIR$/../prussia/prussia/core/core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../prussia/prussia/extras/extras.iml" filepath="$PROJECT_DIR$/../prussia/prussia/extras/extras.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../prussia/prussia/prussia.iml" filepath="$PROJECT_DIR$/../prussia/prussia/prussia.iml" />
+    </modules>
+  </component>
+</project>
